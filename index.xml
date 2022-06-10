@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Black Channel</title>
+    <link>*/</link>
+    <description>Recent content on The Black Channel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="*/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events (Friday Jun 10)</title>
+      <link>*/eventsjun10-12/</link>
+      <pubDate>Fri, 10 Jun 2022 15:26:28 +0200</pubDate>
+      
+      <guid>*/eventsjun10-12/</guid>
+      <description>NDAKO Afrorave 10.06.2022 Badehaus Berlin
+Afrorave meets Badehaus on the 10th of June. We are looking forward to party with you with the finest Afrobeats, Amapiano and Afrohouse sounds. Stay tuned for DjMarsoul, Premps, Malengo and our EMEA collective.
+Am 10. Juni trifft der Afrorave auf das Badehaus und wir freuen uns mit Euch zu den feinsten Afrobeats, Amapiano und Afrohouse sounds zu feiern. Freut euch auf Dj Marsoul, Premps, Malengo und unser EMEA collective.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>*/about/</link>
+      <pubDate>Fri, 10 Jun 2022 14:53:10 +0200</pubDate>
+      
+      <guid>*/about/</guid>
+      <description>What is this? This is the starting point for a project that I wanted to start in Berlin after moving here.
+I wanted this to be a space people can find a starting point or a homebase when coming to europe for now I only have berlin as an option but as the project gets bigger it will mostlikely expand to othercities across europe.
+What do you do? A little bit of everything but mostly netowkr buiding.</description>
+    </item>
+    
+  </channel>
+</rss>
